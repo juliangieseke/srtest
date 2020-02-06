@@ -9,3 +9,4 @@ Steps I did manually, tracked here to be able to understand how things work. Its
 1. (master) initial commit
 2. (master) couple bug fixes
 3. (master) add feature commit
+4. (beta) branched beta
