@@ -6,4 +6,4 @@ This repo does only exist to better understand and test [semantic-release](https
 
 Steps I did manually, tracked here to be able to understand how things work. Its going to be `(branch) description`:
 
-- (master) initial commit
+1. (master) initial commit
