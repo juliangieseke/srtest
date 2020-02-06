@@ -1,0 +1,24 @@
+{
+  "name": "srtest",
+  "version": "0.0.0-dev",
+  "description": "semantic-release test repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "[ \"$(npm -s start)\" = \"Hello World\" ] && echo passed. || (echo failed, got \\\"$(npm -s start)\\\" && exit 1)",
+    "start": "node index.js",
+    "release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliangieseke/srtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliangieseke/srtest/issues"
+  },
+  "homepage": "https://github.com/juliangieseke/srtest#readme",
+  "dependencies": {
+    "semantic-release": "^17.0.2"
+  }
+}
