@@ -7,3 +7,4 @@ This repo does only exist to better understand and test [semantic-release](https
 Steps I did manually, tracked here to be able to understand how things work. Its going to be `(branch) description`:
 
 1. (master) initial commit
+2. (master) couple bug fixes
