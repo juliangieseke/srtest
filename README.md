@@ -34,3 +34,4 @@ Steps I did manually, tracked here to be able to understand how things work. Its
 26. (master) fix breaking
 27. (beta) feature 1
 28. (beta) feature 2
+29. (beta) feature 3
