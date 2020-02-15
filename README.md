@@ -20,3 +20,4 @@ Steps I did manually, tracked here to be able to understand how things work. Its
 12. (master) hotfix
 13. (beta) changes
 14. (beta) another change on beta
+15. (integration) fix something
