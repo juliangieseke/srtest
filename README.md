@@ -22,3 +22,4 @@ Steps I did manually, tracked here to be able to understand how things work. Its
 14. (beta) changes
 15. (beta) another change on beta
 16. (integration) fix something
+17. (master) add travis
