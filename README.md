@@ -29,5 +29,8 @@ Steps I did manually, tracked here to be able to understand how things work. Its
 21. (master) bugfix
 22. (beta) some feature
 23. (beta) some feature
-24. (beta) feature 1
-25. (beta) feature 2
+24. (master) fix adsfljh
+25. (master) fix oine2
+26. (master) fix breaking
+27. (beta) feature 1
+28. (beta) feature 2
