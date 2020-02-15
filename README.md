@@ -17,3 +17,4 @@ Steps I did manually, tracked here to be able to understand how things work. Its
 9. (master) new commit on master
 10. (master) BREAKING
 11. (master) master prereleases (BREAKING)
+12. (master) hotfix
