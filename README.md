@@ -32,4 +32,8 @@ Steps I did manually, tracked here to be able to understand how things work. Its
 24. (master) fix adsfljh
 25. (master) fix oine2
 26. (master) fix breaking
-27. (master) breaking…
+27. (beta) feature 1
+28. (beta) feature 2
+29. (beta) feature 3
+30. (master) breaking…
+31. (beta) one more beta
