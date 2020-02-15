@@ -13,5 +13,6 @@ jobs:
       # script: skip
       deploy:
         all_branches: true
+        condition: true
         provider: script
         script: npx semantic-release
