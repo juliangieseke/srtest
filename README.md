@@ -26,5 +26,6 @@ Steps I did manually, tracked here to be able to understand how things work. Its
 18. (beta) fixed travis. breaking change (multiple commits)
 19. (master) fix on master
 20. (master) another bugfix
-21. (beta) some feature
+21. (master) bugfix
 22. (beta) some feature
+23. (beta) some feature
