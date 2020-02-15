@@ -18,4 +18,5 @@ Steps I did manually, tracked here to be able to understand how things work. Its
 10. (master) BREAKING
 11. (master) master prereleases (BREAKING)
 12. (master) hotfix
-13. (beta) another change on beta
+13. (beta) changes
+14. (beta) another change on beta
