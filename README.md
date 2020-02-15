@@ -30,3 +30,4 @@ Steps I did manually, tracked here to be able to understand how things work. Its
 22. (beta) some feature
 23. (beta) some feature
 24. (beta) feature 1
+25. (beta) feature 2
