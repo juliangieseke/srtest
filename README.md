@@ -27,3 +27,4 @@ Steps I did manually, tracked here to be able to understand how things work. Its
 19. (master) fix on master
 20. (master) another bugfix
 21. (beta) some feature
+22. (beta) some feature
