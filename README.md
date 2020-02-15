@@ -37,3 +37,4 @@ Steps I did manually, tracked here to be able to understand how things work. Its
 29. (beta) feature 3
 30. (master) breaking…
 31. (beta) one more beta
+32. (master) bugfix ijp
